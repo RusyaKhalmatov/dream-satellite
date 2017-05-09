@@ -1,0 +1,66 @@
+body
+{
+    background-color: aqua;
+}
+.regF{
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    
+position: absolute;
+width: 450px;
+height:500px;
+//margin-left: 200px;
+    background-color:white;
+   margin:auto;
+}
+
+h2,h3
+{
+    margin-left: 10px;
+    color:olive;
+}
+
+.inp 
+{
+
+   margin-left: 100px;
+    width: 250px;
+    height:30px;
+
+}
+.inp #name
+{
+    margin-top: 40px;
+}
+.insReg
+{
+    margin-top: 20px;
+    
+}
+
+.pass
+{
+     width: 200px;
+    height:30px;
+}
+
+#lbl
+{
+   display: inline-block;
+    margin-left: 70px;
+  
+    
+}
+#lbl1
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+input[type=submit]
+{
+    margin-top: 50px;
+    margin-left: 150px;
+}

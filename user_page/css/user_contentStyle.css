@@ -1,0 +1,40 @@
+#usr_cnt
+{
+   // height: 500px;
+    border: 1px solid green;
+}
+
+.usr_inpt
+{
+   
+ height: 30px;
+margin: 10px;
+}
+
+#appl
+{
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+input[type=submit]
+{
+    width:120px;
+    height: 40px;
+    margin-left: 80px;
+    
+    
+}
+#pswr_fd
+{
+     margin-top: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#message_usr
+{
+    color:red;
+    
+}

@@ -1,0 +1,92 @@
+#dreamBlock
+{
+    width: 1170px;
+    height: 850px;
+    margin-left: 170px;
+    margin-top:20px;
+    padding-top:30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+#trip
+{
+    margin-left:25px ;
+    margin-top: 20px;
+    width:auto;
+    height:auto;
+   // background-color:green;
+}
+
+div.gallery {
+    border: 2px solid white;
+    background-color: ivory;
+}
+
+div.gallery:hover {
+    border: 2px solid royalblue;
+}
+
+/*
+div.gallery img {
+    width: 100%;
+    height: auto;
+} */
+
+div.gallery img{
+    height: 200px;
+    width: 19%;
+}
+
+div.desc {
+    margin-top: 200px;
+    padding: 31px;
+    text-align: center;
+    color: royalblue;
+    font-size: 18px; /*change later*/
+    font-family: cursive;
+}
+
+#trip {
+    padding: 0 30px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    #trip {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    #trip {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+#dream
+{  
+    margin-top: 90px;
+    margin-left: 150px ;
+    margin-right: 150px ;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    font-family:"Lucida Calligraphy";
+    font-size: 20px;
+    color: white;
+    width:auto;
+    background-color: #7f3585; /*#4169e1*/
+    border-radius: 50%;
+   
+}

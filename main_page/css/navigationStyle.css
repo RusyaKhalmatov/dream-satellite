@@ -1,0 +1,16 @@
+#mainN
+{
+    margin-top: 10px;
+    width:100%;
+    height: 50px;
+    background-color: royalblue;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    
+}
+
+#buttons
+{
+   height: 50px;
+    width:100%;
+  }

@@ -1,0 +1,180 @@
+/*.menuNav
+{
+   margin-left: 10px;
+    height: 50px;
+    width: 100%;
+    
+}
+
+.menuNav ul li, .menuNav ul{
+	display: inline-block;
+    margin-left: 50px;       
+    font-size: 22px;
+    font-family: cursive;
+    text-align: center;
+     z-index: 2;
+        
+}
+
+.unordered li/*
+{  
+    width:180px;
+
+}
+
+.listNav
+{
+    //height: 20px;
+  /  background-color: black;
+    margin-top: 2px;
+}
+.menuNav ul li
+{
+    margin-left: 0px;
+	padding:5px;
+}
+
+.menu ul ul 
+{
+    width:100px;
+}
+
+
+.menuNav ul ul li:hover
+{
+	background-color: mediumvioletred;
+   
+}
+
+.menuNav ul
+{
+	position:relative;
+	margin:0;
+	padding:0;
+}
+
+.menuNav ul li:hover {
+    background-color: #7f3585;
+}
+
+.menuNav ul ul{   /*for dropdown*//*
+	display:none;
+	position:absolute;
+	background-color: #7f3585;	
+	margin-top:10px;
+	margin-left:-10px;
+    
+}
+.menuNav ul ul a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+.menuNav ul a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+.menuNav li:hover ul{
+	display: block;
+}
+
+.menuNav li:hover li{
+	display: block;
+}
+
+.inside li
+{
+    width:30px;
+    
+}*/
+.menuNav
+{
+    margin-top: 0px;
+    margin-left: 100px;
+        
+    padding-top: 0px;
+        
+}
+.menuNav ul li, .menuNav ul{
+	display: inline-block;
+  margin-left: 50px;       
+    font-size: 22px;
+     z-index: 2;   
+}
+
+.unordered li
+{ 
+    width:150px;          
+}
+
+
+.menuNav ul li
+{
+    margin-left: 0px;
+	padding:10px;
+    text-align: center;
+}
+
+.menu ul ul 
+{
+    width:100px;
+}
+
+.menuNav ul >li:hover
+{
+	//background-color:#f96;
+}
+.menuNav ul ul >li:hover
+{
+	background-color:#69e;
+   
+}
+.menuNav ul
+{
+	position:relative;
+	margin:0;
+	padding:0;
+	//background-color:#f63;
+}
+.menuNav ul ul{
+	display:none;
+	position:absolute;
+	background-color:#369;	
+	margin-top:10px;
+	margin-left:-10px;
+    
+}
+.menuNav ul ul a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+.menuNav ul a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+.menuNav li:hover ul{
+	display: block;
+}
+
+.menuNav li:hover li{
+	display: block;
+}
+
+.inside li
+{
+    width:30px;
+}
+.reg {
+   margin-left: 60px;
+}
+#users_name
+{
+   color: black;
+}

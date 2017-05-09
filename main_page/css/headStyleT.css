@@ -1,0 +1,108 @@
+#HEAD
+{
+    width: auto;
+    height: 140px;
+    color: white;
+    font-family: cursive;
+    margin: 0;
+}
+
+p
+{
+    line-height: 0.5em;
+    margin-left: 30px;
+    
+}
+#piclink
+{
+    margin-left: 150px;
+}
+
+#logo
+{
+    margin-left: 30px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+#number
+{
+    width:200px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 20px;;
+    position: absolute;
+}
+
+img
+{
+    position: absolute;
+}
+
+#mail
+{
+    position: absolute;
+    width:300px;
+    height: 80px;
+    margin-left: 270px;
+    padding-top: 30px;
+    margin-top: 10px;
+}
+
+
+
+#b1,#b2
+{
+
+    margin-top: 10px;
+    height:20px;
+    text-align: center;
+    
+}
+
+#b1 p, #b2 p
+{
+    margin-top: 10px;
+    padding:5px;
+}
+#b1 img
+{
+    margin-left: -113px;
+}
+#b2 img
+{
+   
+    margin-top: -5px;
+    margin-left: -115px;
+}
+
+#log_in
+{
+    position: absolute;
+    margin-left: 80%;
+    margin-top:15px;
+    
+}
+
+.descrip{
+    height: 30px;
+    font-size: 17px;
+    padding-top: 15px;
+    
+}
+
+
+#slogan {
+    
+    margin-left: 600px;
+    font-style: italic;
+    font-family: "Calisto MT", serif;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
